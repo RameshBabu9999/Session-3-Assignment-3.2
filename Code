@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Div Box</title>
+<style>
+body{
+	background-image: url("http://bsmedia.business-standard.com/_media/bs/img/article/2017-02/24/full/1487954183-5505.jpg");
+	background-position: right top;
+	background-repeat: repeat-y;
+}
+div{
+	background-color: #F7DC6F;
+	width: 200px;
+	height: 200px;
+	margin: 0px;
+	padding: 10px;
+	border: 15px solid;
+	color: blue;
+	overflow: scroll;
+	}
+ul{
+	width: 80px;
+	background-color: grey;
+	color: black;
+	font-weight: bold;
+	font-family: sans-serif;
+
+}
+li a{
+	color: blue;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+</style>
+</head>
+<body>
+<h1>DEMONETISATION</h1>
+<p style="color: orange"><b>It is the act of stripping a currency unit of its status as legal tender.</b></p>
+<div>
+In 2016, the Indian government decided to demonetize the 500- and 1000- rupee notes, the two biggest denominations in its currency system; these notes accounted for 86% of the country’s circulating cash. With little warning, India's Prime Minister Narendra Modi announced to the citizenry on Nov. 8 that those notes were worthless, effective immediately – and they had until the end of the year to deposit or exchange them for newly introduced 2000 rupee and 500 rupee bills.
+Chaos ensued in the cash-dependent economy (some 78% of all Indian customer transactions are in cash), as long, snaking lines formed outside ATMs and banks, which had to shut down for a day. The new rupee notes have different specifications, including size and thickness, requiring re-calibration of ATMs: only 60% of the country’s 200,000 ATMs were operational. Even those dispensing bills of lower denominations faced shortages. The government’s restriction on daily withdrawal amounts added to the misery, though a waiver on transaction fees did help a bit.
+</div>
+<ul>
+	<li><a href="https://en.wikipedia.org/wiki/Google_Home">HOME</a></li>
+	<li><a href="https://www.google.co.in/about/">ABOUT</a></li>
+	<lI><a href="https://www.google.com/contact/">CONTACT</a></li>
+</ul>
+</body>
+</html>
